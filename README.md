@@ -1,6 +1,6 @@
 # My Little Stories
 
-https://sivaprasadreddy.gitlab.io/
+https://sivaprasadreddy.github.io/
 
 ## How to run?
 
