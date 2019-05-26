@@ -1,0 +1,30 @@
+baseURL = "https://sivaprasadreddy.github.io/"
+languageCode = "en-us"
+title = "My Little Stories"
+#theme = "colorlib"
+theme = "wellington"
+#theme = "gridbox"
+paginate = 10
+
+disqusShortname = ""
+googleAnalytics = ""
+enableRobotsTXT = true
+preserveTaxonomyNames = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  author = "Siva"
+  subtitle = "My little stories"
+  description = "Life, Health, Family, Career"
+  facebook = ""
+  twitter = ""
+  googleplus = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+
+[social]
+  twitter = "sivalabs"
