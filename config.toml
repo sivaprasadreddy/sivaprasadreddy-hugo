@@ -5,6 +5,7 @@ title = "My Little Stories"
 theme = "wellington"
 #theme = "gridbox"
 paginate = 10
+enableEmoji = true
 
 disqusShortname = ""
 googleAnalytics = ""

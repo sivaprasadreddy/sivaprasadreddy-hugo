@@ -18,5 +18,5 @@ I wanted to start blogging about non-technical stuff and here I am with my new b
 
 Going forward you can find my thoughts on various interesting things in life here.
 
-Stay tuned :-)
+Stay tuned :smile:
 
