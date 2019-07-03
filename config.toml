@@ -3,12 +3,11 @@ languageCode = "en-us"
 title = "My Little Stories"
 #theme = "colorlib"
 theme = "wellington"
-#theme = "gridbox"
 paginate = 10
 enableEmoji = true
 
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "siva-personal-blog"
+googleAnalytics = "UA-81609611-1"
 enableRobotsTXT = true
 preserveTaxonomyNames = true
 
@@ -21,7 +20,7 @@ preserveTaxonomyNames = true
   subtitle = "My little stories"
   description = "Life, Health, Family, Career"
   facebook = ""
-  twitter = ""
+  twitter = "sivalabs"
   googleplus = ""
   youtube = ""
   github = ""
