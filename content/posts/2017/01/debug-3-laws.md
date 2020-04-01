@@ -3,6 +3,7 @@ date = "2017-01-08"
 draft = false
 title = "Debugging Weird Technical Issues using Siva's 3-Step Debugging Law"
 type = "post"
+url = "/2017/01/debugging-weird-technical-issues-using-sivas-3-step-debugging-law/"
 images = ["/images/facepalm.jpg"]
 categories = [ "Tips", ]
 tags = [ "Tips", ]
