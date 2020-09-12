@@ -1,11 +1,12 @@
-<main id="main" class="site-main" role="main">
+{{ define "main" }}
+    <main id="main" class="site-main" role="main">
     <div id="post-wrapper" class="post-wrapper clearfix">
         <div class="post-column clearfix">
-            {{ $paginator := .Paginate (where .Pages "Type" "post") }}
+            {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
 
             {{ range $paginator.Pages }}
             <article id="post-9753" class="post type-post status-publish format-standard has-post-thumbnail hentry">
-                <a class="wp-post-image-link" href="{{ .RelPermalink }}" rel="bookmark">
+                <a class="wp-post-image-link" href="{{ .Permalink }}" rel="bookmark">
                     {{- if isset .Params "images" }}
                     {{- if not (eq (len .Params.images) 0) }}
                     <img width="626" height="660"
@@ -18,7 +19,7 @@
 
                 <div class="entry-content entry-excerpt clearfix">
                     <p>{{ .Summary  }}</p>
-                    <a href="{{ .RelPermalink }}" class="more-link">Continue reading &raquo;</a>
+                    <a href="{{ .Permalink }}" class="more-link">Continue reading &raquo;</a>
                 </div>
             </article>
             {{ end }}
@@ -27,3 +28,4 @@
     </div>
     {{ partial "pagination.html" . }}
 </main>
+{{ end }}
