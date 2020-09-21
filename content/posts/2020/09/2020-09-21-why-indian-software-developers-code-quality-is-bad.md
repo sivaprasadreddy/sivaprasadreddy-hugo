@@ -11,7 +11,7 @@ categories:
 tags: [IT, Culture]
 ---
 
-In India, there is a new channel called TVx. Whenever they don't have any other interesting news to grab people attention, 
+In India, there is a news channel called TVx. Whenever they don't have any other interesting news to grab people attention, 
 they start telecasting their all-time favorite programs like 
 **Is the world is going to end in 2048?** or **Is Mayan's prediction about world ending is right?** or 
 **Is IT employees are suffering from psychological problems?** etc. 
@@ -43,7 +43,7 @@ Going with option1 is easy. Option2 needs some effort, but it is the right thing
 
 Now, coming to the point 
 
-## Code from Indian Software Developers is bad
+## Indian Software Developers produce poor quality code
 
 Yes, with great sadness **I fully agree that most of the times Indian software developers produce poor quality code.**
 
