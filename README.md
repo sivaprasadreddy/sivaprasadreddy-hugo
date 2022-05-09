@@ -3,12 +3,7 @@
 https://sivaprasadreddy.github.io/
 
 ## How to run?
-
-`> hugo server`
-
-
-`> hugo server --buildDrafts`
-
-## Deploy
-
-`> ./deploy.sh`
+```shell
+$ npm install
+$ npm run dev
+```
