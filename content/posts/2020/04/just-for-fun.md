@@ -11,13 +11,13 @@ thumbnail = "static/images/smiley-1.jpg"
 
 #### Having some fun is absolutely necessary in these COVID-19 times to relax a bit :-)
 
-##### In the final round of interview when the the interviewer told you that you will be working on building a microservices based platform and you can help in setting up infrastructure using Kubernetes too, if you are interested...
+##### In the final round of interview when the interviewer told you that you will be working on building a microservices based platform and you can help in setting up infrastructure using Kubernetes too, if you are interested...
 
 {{< youtube id="XjiOtouyBOg?start=0"  >}}
 
 ---
 
-##### After joining when they put you in a 15 year old project and start assigning low priority bugs opened in 2008...
+##### After joining when they put you in a 15-year-old project and start assigning low priority bugs opened in 2008...
 
 {{< youtube OMAIsqvTh7g >}}
 
