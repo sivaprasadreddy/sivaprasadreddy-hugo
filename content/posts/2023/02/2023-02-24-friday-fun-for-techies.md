@@ -17,7 +17,7 @@ tags: [Fun]
 ![So tempting](https://media.tenor.com/QqEP8PCVtdUAAAAd/attilisathi-heart-attack-brahmi.gif "So tempting")
 
 
-#### Finally I am about to start working, someone calling for another meeting
+#### Finally, I am about to start working, someone calling for another meeting
 
 ![alt](https://media.tenor.com/-fHCFsJVJY8AAAAC/vachesadu-brahmi.gif)
 

@@ -177,7 +177,7 @@ This can wait too :-)
 
 **Write more articles, Weekly Newsletter:**
 
-I like blogging, I really really do. But running after gaining more subscribers doesn't seems right to me. If keep writing more quality articles then people automatically like them and spread the word. I don't have to aggressively try to increase my visitors, especially when I am not getting paid for writing the posts or not making money in any way from my blog.
+I like blogging, I really do. But running after gaining more subscribers doesn't seem right to me. If keep writing more quality articles then people automatically like them and spread the word. I don't have to aggressively try to increase my visitors, especially when I am not getting paid for writing the posts or not making money in any way from my blog.
 
 What I noticed is, as long as you keep writing posts people read them and ask you to write more. But for some reason if you stop writing then they simply look for other blogs. So, the world is not going to stop if you don't write regularly. I like blogging but that doesn't mean I need to pressurize myself.
 
@@ -226,7 +226,7 @@ After careful observation I realized that the main cause of my TodoList pressure
 
 The main reason I use Twitter is I can follow some good techies and learn from them. But these days I hardly see anything technical on my timeline. My twitter timeline is filled with many other things which I am not really interested in. So I uninstalled Twitter app from my phone and I only check twitter on my laptop once in a week. 
 
-Now my true TodoList has become small and actually I have plenty of free time now.
+Now my true TodoList has become small, and actually I have plenty of free time now.
 
 1. Start exercising
 2. Plan Vacation

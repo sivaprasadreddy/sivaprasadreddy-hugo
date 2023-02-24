@@ -15,7 +15,7 @@ And, we hope with our new choices our life will get better.
 
 ![Every option comes with pros and cons](/images/choice.jpg)
 
-But, most of the times we forget one thing.
+But, most of the time we forget one thing.
 
 > Every choice we make might bring some positive things into our life and also bring some new challenges.
 
