@@ -12,7 +12,7 @@ thumbnail = "static/images/cinema.jpg"
 # My Favorite Hollywood Movies
 
 I am a big fan of [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) and I love all of his movies.
-But the following movies are top notch in my opinion and I never get bored of watching them.
+But the following movies are top-notch in my opinion and I never get bored with watching them.
 
 * [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
 * [Django Unchained](https://en.wikipedia.org/wiki/Django_Unchained)

@@ -9,9 +9,9 @@ tags = [ "Thoughts"]
 thumbnail = "static/images/businessman-1.jpg"
 +++
 
-<p style="font-size: 25px; font: bold; text-align: center">
-"Never give up"..."Fight till you die"...
-</p>
+
+# "Never give up"..."Fight till you die"...
+
 
 Yesss...Never give up. Yes, these are the things that we keep hearing all the times, in movies, 
 in self-help books, in motivational speeches.

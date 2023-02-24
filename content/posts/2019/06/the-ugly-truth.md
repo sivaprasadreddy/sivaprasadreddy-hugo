@@ -10,7 +10,7 @@ thumbnail = "static/images/odd-man.jpg"
 +++
 
 I am so excited to meet my old friend Vinay after a long time. It has been almost one and half year we spoke to each other. We worked together in one of my previous organizations and he is a close friend and kind of mentor to me too.
-We both got busy in our lives and we are not in touch lately. I am so happy to meet him after a long time.
+We both got busy in our lives, and we are not in touch lately. I am so happy to meet him after a long time.
 
 **Vinay:** Hey Rahul, how are you? 
 
@@ -66,19 +66,19 @@ That's it. All the CTOs who born to do the digital transformations, all the arch
 
 The worst thing is if some honest person tells the business folks that your business doesn't need all this complex high scaling needs, they don't like it. They like to see themselves as next Google or next Facebook. 
 
-Actually for a while I thought may be I am looking at all these as complex things because they are complex to learn and implement properly. So, I spent good amount of time to understand and how to implement them. Still I feel most of it is an unnecessary complexity, not worth the effort.
+Actually for a while I thought maybe I am looking at all these as complex things because they are complex to learn and implement properly. So, I spent good amount of time to understand and how to implement them. Still I feel most of it is an unnecessary complexity, not worth the effort.
 
 > I strongly believe that our IT industry is constantly trying to find an alternative to "Discipline" and in this process making things much worse.
 
 **Vinay:** Oh my god, I thought it's just me who got overwhelmed with all these new things. Recently we started working on a new application and the architecture board decided to use ReactJS as frontend and SpringBoot on backend. 
 
-I still can't get my head around this ReactJS ecosystem. There are a billions things to stitch together to build a frontend application. There is **react, react-dom, redux, react-redux, react-router, react-router-dom, react-router-redux, redux-thunk, connected-react-router, react-reduct-myass-router-dom-redux**...I can't even remember the names of those npm modules for the god's sake.
+I still can't get my head around this ReactJS ecosystem. There are billions things to stitch together to build a frontend application. There is **react, react-dom, redux, react-redux, react-router, react-router-dom, react-router-redux, redux-thunk, connected-react-router, react-reduct-myass-router-dom-redux**...I can't even remember the names of those npm modules for the god's sake.
 
 **Rahul:** The dangerous thing is many people actually know that we don't actually need all this complexity but they don't risk saying it aloud.
 
 All this new cool tech stuff craziness is one side of the coin only. The other size is even more ugly. 
 
-I understand that we all want to feel what we do is important but I don't understand this obsession of **I want to change the world**...**I want to make world a better place**. And they are planning to achieve this mission by implementing Enterprise Data Management CRUD applications...with some messaging queues in between.
+I understand that we all want to feel what we do is important, but I don't understand this obsession of **I want to change the world**...**I want to make world a better place**. And they are planning to achieve this mission by implementing Enterprise Data Management CRUD applications...with some messaging queues in between.
 
 **Vinay:** Enterprise Data Management CRUD applications....LOL
 

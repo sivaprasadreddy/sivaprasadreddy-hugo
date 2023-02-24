@@ -108,11 +108,3 @@ Me: On one hand, the company's top level management keep telling you lot of thin
 
 I can understand that while running a big corporate company there are lot of things to do in a diplomatic way and we can't speak honestly all the times. But looking at how easily they lie without any discomfort, you will stop believing anything that comes out of their mouths.
 
-
-* I took break due to stress...not because of hectic work...but because of work culture
-* He said...hmmm..another victim of corporate culture
-* He said currently he is working at a small company...but earlier worked at a large company which is a dream company for many
-* Planned to meet in the evening for a drink
-* I asked him what do you mean by "another victim of corporate culture"
-
-* He asked what is your problem? Why are you so stressed?
