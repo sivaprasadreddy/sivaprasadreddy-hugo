@@ -11,7 +11,7 @@ tags: [Life]
 ---
 
 Usually, on Sundays we get breakfast and dinner from outside instead of preparing at home.
-We know a nice place from where we usually get the breakfast, but today we wanted to try some new place.
+We know a nice place from where we usually get the breakfast, but yesterday we wanted to try some new place.
 After searching around for 30 minutes we finally found a new tiffin center.
 
 I went to the shop and asked the person sitting at cash counter what I want, and she repeated my order loudly to the people preparing the food.
