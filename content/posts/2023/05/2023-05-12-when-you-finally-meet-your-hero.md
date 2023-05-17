@@ -165,7 +165,7 @@ Thanks Siva for bringing it up, I appreciate it. We will continue the workshop t
 
 **Raj(another team manager):** Should we continue tomorrow, or is it better to understand how various systems interact with each other currently and come up with a new proposal later?
 
-After 30 sends of silence, Vinod said, I will let you know by EOD today.
+After 30 seconds of silence, Vinod said, I will let you know by EOD today.
 
 After the workshop ended abruptly, I was at water cooler drinking water and coincidentally, Vinod came there.
 Then I gave the badass Clint Eastwood look.
@@ -179,7 +179,7 @@ Later that day we get email that workshop is postponed for a few weeks.
 2 days later....
 
 We got a P1 production issue that our batch jobs are failing under high-load, and we are not able to replicate that issue in any other lower environments.
-We did some guess work and tried various fixes but nothing worked.
+We did some guess work and tried various fixes, but nothing worked.
 
 My manager, who still thinks Vinod is awesome, suggested us to talk to Vinod and using his vast experience fix this bug ASAP.
 
@@ -298,8 +298,8 @@ I told him the whole story of what happened.
 
 You know, companies need these kinds of people who throw fancy buzzwords with American accent.
 While talking to potential customers, these are the people who get clients to the company by saying all those fancy buzzwords.
-So, company management always feel they are more important than a developer like you and me. 
-So, if you want to grow then you should not mess with those folks.
+So, company management always feels they are more important than a developer like you and me. 
+So, if you want to grow, then you should not mess with those folks.
 
 **Me:** Who said I want to grow?
 
@@ -355,7 +355,7 @@ take everything they say as a fact, worship them as our heroes.
 
 **Talking about heroes, here comes my hero.** 
 
-* Not the hero that throws buzzwords and get away with it.
+* Not the hero that throws buzzwords and gets away with it.
 * Not the hero who insults his admirer for asking questions. 
 
 But,
