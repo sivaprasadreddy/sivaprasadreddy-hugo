@@ -3,7 +3,7 @@ title: "Is Software Development Hard? Or, We are making it complicated?"
 author: Siva
 images: ["/images/mind.png"]
 type: post
-draft: true
+draft: false
 date: 2024-06-19T04:59:17+05:30
 url: /is-software-development-hard
 toc: false
