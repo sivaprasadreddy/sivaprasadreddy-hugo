@@ -11,7 +11,7 @@ categories: [DispassionateProgrammer]
 tags: ["Dispassionate Programmer"]
 ---
 
-[Dispassionate Programmer: Chapter 01 - The reunion with an old friend](http://sivaprasadreddy.com/01-the-reunion-with-an-old-friend/)
+[Dispassionate Programmer: Chapter 01 - The reunion with an old friend]({{< relref "01-the-reunion-with-an-old-friend.md" >}})
 
 **Vikram:** When we joined in our first company, the entire team is a group of friends.
 There are no office politics happening between us. We used to help each other.
@@ -33,7 +33,7 @@ Thinking back now, I think he was smiling look at my stupidity and ignorance for
 
 **Vikram:** Arrogant? I know.
 
-As know, we were getting very low salaries, so I found another job.
+As you know, we were getting very low salaries, so I found another job.
 
 That was a product-based company. In product-based companies, the same product development continues for many years.
 Some people stay in the same company, understand the product very well and help the new joiners to understand the domain quickly.
@@ -135,4 +135,4 @@ Often the opportunities come in the form of impossible tasks.
 > 1. Beware of sweet talkers. Not everyone talking to you friendly is your friend.
 > 2. Stay away from the people who keep bad-mouthing about the company all the time.
 
-**(Next: Dispassionate Programmer: Chapter 03 - Find Joy in Learning New things)** **Coming soon.**
+[Next: Dispassionate Programmer: Chapter 03 - Find Joy in Learning New things]({{< relref "03-find-joy-in-learning-new-things.md" >}})
