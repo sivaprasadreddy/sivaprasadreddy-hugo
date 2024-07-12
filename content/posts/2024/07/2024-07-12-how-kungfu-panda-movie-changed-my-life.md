@@ -147,7 +147,25 @@ And, it's not that easy. Unless you have a passion to achieve it.
 **As you progress in your career, you got to be more humble. Just like Po.
 Even after becoming the Dragon Warrior, did you ever see Po looking down on Furious Five? Nope.**
 
-Be like Po. Curious, passionate, humble and playful :-)
+We constantly try to acquire knowledge and wisdom. 
+We can gain more knowledge by reading or talking to people.
+But gaining wisdom is a funny thing. We keep looking for that one enlightened moment where we understand the purpose of life.
+But most of us won't experience that magical moment.
+Instead, as we become older, we start realizing that wisdom is nothing but knowing the true meaning of 
+what we studied in 6th class.
+
+**Health is wealth**
+
+**All that glitters is not gold**
+
+**Empty vessels make the most noise**
+
+These are all the sayings we learned in school without knowing their true meaning.
+Life teaches you the true meaning of these sayings. THIS IS THE WISDOM.
+
+As the saying goes, **When you are ready, the teacher will appear**. The teacher could be a mentor or a movie.
+
+**Be like Po. Curious, passionate, humble and playful :-)**
 
 ![Kung Fu Panda](https://media1.tenor.com/m/NVMukl_xMRoAAAAC/flying-po.gif)
 
