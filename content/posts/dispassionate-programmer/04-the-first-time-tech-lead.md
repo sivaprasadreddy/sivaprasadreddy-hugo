@@ -3,8 +3,8 @@ title: "Dispassionate Programmer: Chapter 04 - Stepping into TechLead Role"
 author: Siva
 images: ["/images/smilies-3298337_1280.jpg"]
 type: post
-draft: true
-date: 2024-07-27T04:59:17+05:30
+draft: false
+date: 2024-07-24T04:59:17+05:30
 url: /04-stepping-into-techlead-role
 toc: false
 categories: [DispassionateProgrammer]
