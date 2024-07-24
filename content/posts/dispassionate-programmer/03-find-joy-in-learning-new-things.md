@@ -11,7 +11,7 @@ categories: [DispassionateProgrammer]
 tags: ["Dispassionate Programmer"]
 ---
 
-[Dispassionate Programmer: Chapter 02 - Beware of sweet talkers]({{< relref "02-beware-of-sweet-talkers.md" >}})
+[Previous: Chapter 02 - Beware of sweet talkers]({{< relref "02-beware-of-sweet-talkers.md" >}})
 
 **Vikram:** So, I joined a new organization, and they were in the process of migrating their existing applications into Java tech stack.
 In that company, luckily I got a manager who is extraordinarily skilled person.
@@ -88,4 +88,4 @@ My "comfortable life" is based on thousands of people's kindness.
 
 **Sumit:** Very true. We don't appreciate the people enough who share their knowledge for free. 
 
-**(Next: Dispassionate Programmer: Chapter 04 - The first time TechLead) Coming soon**
+[Next: Chapter 04 - Stepping into TechLead Role]({{< relref "04-the-first-time-tech-lead.md" >}})

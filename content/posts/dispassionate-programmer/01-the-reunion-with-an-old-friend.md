@@ -26,6 +26,7 @@ either my understanding of the world view or the imaginary situations created to
 * [01 - The reunion with an old friend]({{< relref "01-the-reunion-with-an-old-friend.md" >}})
 * [02 - Beware of sweet talkers]({{< relref "02-beware-of-sweet-talkers.md" >}})
 * [03 - Find Joy in Learning New things]({{< relref "03-find-joy-in-learning-new-things.md" >}})
+* [04 - Stepping into TechLead Role]({{< relref "04-the-first-time-tech-lead.md" >}})
 
 **Sumit:** Oh my god, it's already 6.45am. I have set up the alarm for 6am, but why didn't I get notification.
 Meera, where is my phone?
@@ -113,4 +114,4 @@ What happened? Is everything alright?
 
 That's what happened.
 
-[Next: Dispassionate Programmer: Chapter 02 - Beware of sweet talkers]({{< relref "02-beware-of-sweet-talkers.md" >}})
+[Next: Chapter 02 - Beware of sweet talkers]({{< relref "02-beware-of-sweet-talkers.md" >}})
