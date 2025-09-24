@@ -3,7 +3,7 @@ title: "Dispassionate Programmer: Chapter 01 - The reunion with an old friend"
 author: Siva
 images: ["/images/ai-generated-8788658_1280.jpg"]
 type: post
-draft: false
+draft: true
 date: 2024-06-26T04:59:17+05:30
 url: /01-the-reunion-with-an-old-friend
 toc: false

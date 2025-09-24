@@ -3,7 +3,7 @@ title: "Dispassionate Programmer: Chapter 02 - Beware of sweet talkers"
 author: Siva
 images: ["/images/man-5886719_1280.jpg"]
 type: post
-draft: false
+draft: true
 date: 2024-06-27T04:59:17+05:30
 url: /02-beware-of-sweet-talkers
 toc: false

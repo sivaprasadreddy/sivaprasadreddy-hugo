@@ -3,7 +3,7 @@ title: "How Kung Fu Panda Movie Changed My Life"
 author: Siva
 images: ["/images/kung-fu-panda.jpg"]
 type: post
-draft: false
+draft: true
 date: 2024-07-11T04:59:17+05:30
 url: /how-kungfu-panda-movie-changed-my-life
 toc: false

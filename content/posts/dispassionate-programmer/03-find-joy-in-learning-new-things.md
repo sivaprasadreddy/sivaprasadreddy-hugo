@@ -3,7 +3,7 @@ title: "Dispassionate Programmer: Chapter 03 - Find joy in learning new things"
 author: Siva
 images: ["/images/laptop-2838921_1280.jpg"]
 type: post
-draft: false
+draft: true
 date: 2024-06-28T04:59:17+05:30
 url: /03-find-joy-in-learning-new-things
 toc: false
