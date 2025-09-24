@@ -22,6 +22,8 @@ But as the saying goes, **This too shall pass**. Nothing remains the same foreve
 
 For being a good developer, I got promoted to a TechLead role. And, the **fun** started again :-)
 
+<!--more-->
+
 **Sumit:** What happened?
 
 **Vikram:** I believe some people have natural talent for managing people.

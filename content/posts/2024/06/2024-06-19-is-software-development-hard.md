@@ -18,6 +18,8 @@ such as **"Clean Code"**, **"Refactoring"**, **"Growing Object-Oriented Software
 You also try to improve your craft by learning **TDD(Test Driven Development)**, **DDD(Domain Driven Design)**,
 **Clean/Hexagonal/Onion/Ports&Adapter** Architecture. You definitely feel you are getting better at software development.
 
+<!--more-->
+
 While you can clearly see the benefits of some of these techniques, you are still not very sure about some of the practices.
 You think maybe it's because of your lack of understanding or not yet matured enough to understand those great ideas.
 But you never gave up. Every few weeks/months later, you keep trying those ideas again to see if you understand them now.

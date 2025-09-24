@@ -15,6 +15,9 @@ its values, and the culture. I and many other new joiners went to Pune for this 
 Usually, they give one room for two people. We attended the first day of the program and came back to the room.
 
 After we had dinner, I was just scrolling through my twitter timeline and my roommate was watching something on his laptop.
+
+<!--more-->
+
 By 10:30pm I slept off, and I woke up at around 1:45am and saw my roommate was still watching something. 
 I asked him what he was watching. He said "Game of Thrones", a TV Series.
 

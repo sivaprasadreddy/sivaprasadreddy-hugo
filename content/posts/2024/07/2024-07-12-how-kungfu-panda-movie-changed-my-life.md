@@ -16,6 +16,8 @@ I don't watch every movie released, but I watch some movies many times to unders
 I am not talking about Hollywood's "world is going to end soon and how Americans are going to save the world" nonsense.
 I am not talking about Tollywood mainstream hero's unrealistic, physics defying adventure movies either.
 
+<!--more-->
+
 An interesting thing about good movies is, you will see the same movie in a completely different way at each stage of your life.
 For example, **The Shawshank Redemption**, **12 Angry Men**, **Forrest Gump**, **Good Will Hunting**, etc are timeless classics.
 

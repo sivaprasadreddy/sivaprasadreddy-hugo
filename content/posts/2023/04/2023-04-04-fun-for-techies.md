@@ -12,9 +12,11 @@ tags: [Fun]
 
 ## THIS IS JUST FOR FUN, Not meant to be taken seriously
 
+<!--more-->
+
 #### He is the one who ran "flyway:clean" on production database
 
-ఈ అంకుల్ యే "flyway:clean" రన్ చేసింది ప్రొడక్షన్ లో
+ఈ అంకుల్ యే ప్రొడక్షన్ లో "flyway:clean" రన్ చేసింది 
 
 ![clean prod db](https://media.tenor.com/-FmTDbhbJLoAAAAd/shocked-brahmi.gif "Flyway clean on prod")
 
@@ -23,15 +25,15 @@ tags: [Fun]
 
 ![Team Bonding Activities](https://media.tenor.com/voSBfIXqopUAAAAC/brahmi-telugu.gif)
 
-#### When you did all the work, but manager is presenting it as "Team Work"
+#### When you did all the work, but the manager is presenting it as "Team Work"
 
 ![Team Work](https://media.tenor.com/CyTwJvyerjoAAAAC/pfdb-brahmi.gif)
 
-#### When you are long enough in the software development, and you get a Production Issue pager alert
+#### When you are in the software development long enough, and you get a Production Issue pager alert
 
 ![Production Issue](https://media.tenor.com/BgzAdd-PzeYAAAAC/brahmanandam-heroes.gif)
 
-#### When you accidentally stepped into SCRUM training room
+#### When you accidentally stepped into the SCRUM training room
 
 ![SCRUM training](https://media.tenor.com/7RRfXkptoaIAAAAC/shocked-surprised.gif)
 

@@ -20,6 +20,8 @@ Also, we used to work on the biggest client project which brings the most revenu
 And, we were like work horses. We used to work late nights and finish the work 
 no matter how ridiculous the deadlines are.
 
+<!--more-->
+
 Because of that, our managers were also giving a lot of liberties to us.
 While others have strict office timings, 
 we used to go to the office by 11am because we worked till 1am last night.

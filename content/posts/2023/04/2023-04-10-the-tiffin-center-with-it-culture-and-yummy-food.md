@@ -16,6 +16,8 @@ After searching around for 30 minutes we finally found a new tiffin center.
 
 I went to the shop and asked the person sitting at cash counter what I want, and she repeated my order loudly to the people preparing the food.
 
+<!--more-->
+
 The moment I entered into the shop and taking a glance at the people, 
 I understood that it's a newly opened shop and this business is new to most of the people working there.
 If you wonder how do I know, my parents ran a small hotel for almost 16+ years and I know a thing or two about running a hotel.

@@ -17,6 +17,8 @@ Yes, we have all been there at some point of time in our careers.
 If we are in this situation once in a while, that may be acceptable.
 But if we are in this mode of working on a regular basis, then it is very difficult to cope with it.
 
+<!--more-->
+
 **So, how to handle if you are constantly asked to take up projects with unrealistic deadlines all the time?**
 One of my ex-managers gave me great advice a few years ago which really helped me a lot.
 I am going to share that simple but effective tip with you in this post.

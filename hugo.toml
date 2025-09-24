@@ -3,13 +3,19 @@ languageCode = "en-us"
 title = "My Little Stories"
 #theme = "colorlib"
 theme = "wellington"
-paginate = 10
-enableEmoji = true
 
-disqusShortname = "siva-personal-blog"
-googleAnalytics = "G-G3FX16QYJD"
 enableRobotsTXT = true
+enableEmoji = true
 preserveTaxonomyNames = true
+
+[pagination]
+  pagerSize=10
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-G3FX16QYJD'
+  [services.disqus]
+    shortname = 'siva-personal-blog'
 
 [taxonomies]
   category = "categories"

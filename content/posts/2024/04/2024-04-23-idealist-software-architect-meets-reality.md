@@ -16,6 +16,8 @@ Actually, they hired me because they were impressed with my work in the tech com
 It seems they are going to get a big client project soon, and they want to make sure that the project is successful.
 I am also excited to work on this project.
 
+<!--more-->
+
 I know there is another architect (**Syam**) in the team who is working there for the last five years. 
 I don't know how much he will cooperate with me. But I am sure that I can handle it.
 I suspect he is going to try hard to lead this project as an architect.

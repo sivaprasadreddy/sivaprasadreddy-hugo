@@ -1,8 +1,5 @@
-<!--
-{{ partial "social-links.html" . }}
--->
 
-<aside id="recent-posts-2" class="widget widget_recent_entries clearfix">
+<aside id="recent-posts" class="widget clearfix">
     <div class="widget-header">
         <h3 class="widget-title">Recent Posts</h3>
     </div>
@@ -15,50 +12,42 @@
 
 </aside>
 
-<!--
-<aside id="top-posts-2" class="widget widget_top-posts clearfix">
-    <div class="widget-header"><h3 class="widget-title">Top Posts &amp; Pages</h3></div>
-    <ul>
-
-        <li>
-            <a href="{{ "2016/03/why-springboot/" | relLangURL }}"
-            class="bump-view" data-bump-view="tp">
-            Why SpringBoot?</a>
-        </li>
-
-        <li>
-            <a href="{{ "2016/03/how-springboot-autoconfiguration-magic/" | relLangURL }}"
-            class="bump-view" data-bump-view="tp">
-            How SpringBoot AutoConfiguration magic works?</a>
-        </li>
-</ul>
-</aside>
--->
-
-<aside id="categories-2" class="widget widget_categories clearfix">
+<aside id="categories" class="widget clearfix">
     <div class="widget-header"><h3 class="widget-title">Categories</h3></div>
     <ul>
-        {{- $categories := .Site.Taxonomies.categories }}
-        {{- if gt (len $categories) 0 }}
-          {{- range $name, $taxonomy := $categories }}
-            {{- with $.Site.GetPage (printf "/categories/%s" $name) }}
-              <li class="cat-item">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </li>
-            {{- end }}
-          {{- end }}
+        {{- if isset .Site.Taxonomies "categories" }}
+        {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
+        {{- range $name, $items := .Site.Taxonomies.categories }}
+        <li>
+            <a href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}/"
+                title="{{ $name }}">
+            {{ $name | upper }}
+            </a>
+        </li>
+        {{- end }}
+
+        {{- end }}
         {{- end }}
     </ul>
 </aside>
 
-<aside id="tag_cloud-3" class="widget widget_tag_cloud clearfix">
+<aside id="tag_cloud" class="widget widget_tag_cloud clearfix">
     <div class="widget-header"><h3 class="widget-title">Tags</h3></div>
     <div class="tagcloud">
+        {{- if isset .Site.Taxonomies "tags" }}
+        {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
+
         <div class="widget__content">
-        {{ range .Site.Taxonomies.tags }}
+            {{- range $name, $items := .Site.Taxonomies.tags }}
             <a class="tag-cloud-link widget__link widget__link--taglist"
-            href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a> 
-        {{ end }}
+               href="{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}/"
+               title="{{$name}}">
+                {{ $name | lower }}{{ if $.Site.Params.widgets.tags_counter }} ({{ $items.Count }}){{ end }}
+            </a>
+            {{- end }}
         </div>
+
+        {{- end }}
+        {{- end }}
     </div>
 </aside>

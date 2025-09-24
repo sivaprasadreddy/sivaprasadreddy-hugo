@@ -15,6 +15,8 @@ Somehow, I managed to reach the office by 9.35am, and it looks like the meeting 
 Oh, I didn't tell you why I am so excited for this meeting, right. 
 It's actually a workshop, and it's going to be conducted by **Mr Vinod**. **THE AWESOME VINOD**.
 
+<!--more-->
+
 Vinod joined our organization 7 months ago as an enterprise architect and oh man, he is just awesome.
 I didn't have the opportunity to work with him directly, but I have attended some of the meetings he was in, and he is a legend.
 The way he presents his ideas, how good he is with software architectural concepts...he is just charismatic.

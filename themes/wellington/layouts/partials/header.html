@@ -2,17 +2,19 @@
     <div class="header-main container clearfix">
         <div id="logo" class="site-branding clearfix">
             <h1 class="site-title">
-                <a href="{{ "" | relLangURL }}" title="{{ .Site.Title }}" rel="home">{{ .Site.Title }}</a>
+                <a href="{{ "" | relLangURL }}" title="{{ .Site.Title }}" rel="home">
+                {{ .Site.Title }}
+                </a>
             </h1>
-            <p class="site-description">Life, family, health, career, job and other stuff</p>
-        </div>
-        <div class="header-widgets clearfix">
+            <p class="site-description">{{ .Site.Params.Subtitle}}</p>
         </div>
     </div>
     <div id="main-navigation-wrap" class="primary-navigation-wrap">
-        <nav id="main-navigation" class="primary-navigation navigation container clearfix" role="navigation">
+        <nav id="main-navigation" class="primary-navigation navigation container clearfix"
+             role="navigation">
             <ul id="menu-home" class="main-navigation-menu">
-                <li id="menu-item-1145" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1145">
+                <li class="menu-item menu-item-type-custom menu-item-object-custom
+                            current-menu-item current_page_item menu-item-home">
                     <a href="{{ "" | relLangURL }}">Home</a>
                 </li>
             </ul>

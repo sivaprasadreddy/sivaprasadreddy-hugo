@@ -22,6 +22,8 @@ either my understanding of the world view or the imaginary situations created to
 > So, take it with a pinch of salt.
 > With that being said, sit back and enjoy the ride.
 
+<!--more-->
+
 ## Dispassionate Programmer
 * [01 - The reunion with an old friend]({{< relref "01-the-reunion-with-an-old-friend.md" >}})
 * [02 - Beware of sweet talkers]({{< relref "02-beware-of-sweet-talkers.md" >}})

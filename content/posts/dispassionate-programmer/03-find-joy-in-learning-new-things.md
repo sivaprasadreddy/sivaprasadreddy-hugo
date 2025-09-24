@@ -20,6 +20,8 @@ He is like the head of the operations for offshore development center, but didn'
 Later I heard he worked on many C++ projects building low-level infrastructure, 
 that's why he has very good knowledge on how things work behind the scenes.
 
+<!--more-->
+
 There I got a chance to work with him closely, and I really enjoyed working with him.
 There I built some internal library using Spring that later became a default library in most of the Java based applications.
 
