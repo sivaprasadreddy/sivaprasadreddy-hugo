@@ -37,7 +37,7 @@ preserveTaxonomyNames = true
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ':cacheDir/static/images'
 
 [markup]
   [markup.goldmark]
