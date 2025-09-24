@@ -12,6 +12,8 @@ tags: [Fun]
 
 ## THIS IS JUST FOR FUN, Not meant to be taken seriously
 
+<!--more-->
+
 #### Me to new JavaScript frameworks :-)
 
 ![So tempting](https://media.tenor.com/QqEP8PCVtdUAAAAd/attilisathi-heart-attack-brahmi.gif "So tempting")

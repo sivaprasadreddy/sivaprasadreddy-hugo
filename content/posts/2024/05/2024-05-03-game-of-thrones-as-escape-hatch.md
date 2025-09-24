@@ -37,7 +37,7 @@ He also warned me that not to watch with family as there are many adult scenes i
 -------------------------------------
 
 After a while I started watching the series, and I was hooked to it. I watched all the seasons in a month.
-I thought Quentin Tarantino movies are violent, but the violence in this series is a whole new level.
+I thought Quentin Tarantino movies were violent, but the violence in this series is a whole new level.
 But what kept me hooked on the series is the story, the characters, and the dialogues.
 
 It's definitely not like a regular TV series where the hero saves the world, and the villain dies.
@@ -45,7 +45,7 @@ It's not a regular movie or series where people give a damn about political corr
 The series shows the reality of life, the politics, the power, the betrayal, the love, the lust, the greed, the revenge, and the death.
 
 Okay, but how is it an escape hatch from reality?
-There are dragons, white walkers, etc. How can it be escape hatch from reality?
+There are dragons, white walkers, etc. How can it be an escape hatch from reality?
 
 Continue reading...
 
