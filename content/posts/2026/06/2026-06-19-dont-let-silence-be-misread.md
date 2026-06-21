@@ -1,5 +1,5 @@
 ---
-title: "Don't Let Silence Be Misread"
+title: "Tales of IT: Don't Let Silence Be Misread"
 author: Siva
 images: ["/images/dont-let-silence-be-misread.png"]
 type: post
