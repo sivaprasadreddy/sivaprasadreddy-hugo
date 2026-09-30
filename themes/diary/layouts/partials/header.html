@@ -1,7 +1,7 @@
 <header class="site-header">
   <a class="site-title" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
   <nav>
-    <a href="{{ site.Home.RelPermalink }}">Entries</a>
+    <a href="{{ site.Home.RelPermalink }}">Posts</a>
     {{ range site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}
     {{ with site.GetPage "/tags" }}<a href="{{ .RelPermalink }}">Tags</a>{{ end }}
   </nav>

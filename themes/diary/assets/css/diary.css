@@ -21,6 +21,7 @@ a:hover { text-decoration: underline; }
 .site-subtitle { margin: 0; color: var(--muted); font-style: italic; }
 .site-header nav { margin-top: .75rem; font-size: .95rem; }
 .site-header nav a { margin: 0 .6rem; }
+.site-header a:hover { text-decoration: none; color: var(--accent); }
 
 .entry { padding: 1.25rem 0; border-bottom: 1px solid var(--rule); }
 .entry-date { display: block; font-size: .85rem; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); }
