@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ if not .IsHome }}<h1 class="list-title">{{ .Title }}</h1>{{ end }}
+{{ $pages := cond .IsHome (where site.RegularPages "Type" "in" (slice "post" "posts")) .Pages }}
+{{ if .IsHome }}{{ if not $pages }}{{ $pages = site.RegularPages }}{{ end }}{{ end }}
+{{ $paginator := .Paginate ($pages.ByDate.Reverse) }}
+{{ range $paginator.Pages }}
+  {{ partial "entry.html" . }}
+{{ end }}
+{{ with $paginator }}
+{{ if gt .TotalPages 1 }}
+<nav class="pager">
+  {{ if .HasPrev }}<a href="{{ .Prev.URL }}">&larr; Newer</a>{{ else }}<span></span>{{ end }}
+  <span>Page {{ .PageNumber }} of {{ .TotalPages }}</span>
+  {{ if .HasNext }}<a href="{{ .Next.URL }}">Older &rarr;</a>{{ else }}<span></span>{{ end }}
+</nav>
+{{ end }}
+{{ end }}
+{{ end }}

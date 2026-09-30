@@ -1,0 +1,8 @@
+name = "Diary"
+description = "A minimal, image-free journal theme. Posts are listed as simple entries and read like diary pages. No sidebars."
+license = "MIT"
+min_version = "0.120.0"
+
+[author]
+  name = "K Siva Prasad Reddy"
+  homepage = "https://sivaprasadreddy.com"

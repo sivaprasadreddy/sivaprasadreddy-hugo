@@ -1,0 +1,25 @@
+{{ define "main" }}
+<article class="diary-page">
+  <header class="diary-head">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Monday" }}</time>
+    <span class="diary-date">{{ .Date.Format "2 January 2006" }}</span>
+    <h1>{{ .Title }}</h1>
+  </header>
+  {{ with index (.Params.images | default slice) 0 }}
+  <img class="diary-cover" src="{{ . | relURL }}" alt="{{ $.Title }}">
+  {{ end }}
+  <div class="diary-body">
+    {{ .Content }}
+  </div>
+  <footer class="diary-foot">
+    {{ with .GetTerms "tags" }}
+    <p class="tags">{{ range . }}<a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a> {{ end }}</p>
+    {{ end }}
+    <p class="sign-off">— {{ site.Params.author }}</p>
+  </footer>
+  <nav class="pager">
+    {{ with .NextInSection }}<a href="{{ .RelPermalink }}">&larr; {{ .Title }}</a>{{ else }}<span></span>{{ end }}
+    {{ with .PrevInSection }}<a href="{{ .RelPermalink }}">{{ .Title }} &rarr;</a>{{ else }}<span></span>{{ end }}
+  </nav>
+</article>
+{{ end }}

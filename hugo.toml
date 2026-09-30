@@ -1,8 +1,7 @@
 baseURL = "https://sivaprasadreddy.com"
 languageCode = "en-us"
 title = "My Little Stories"
-#theme = "colorlib"
-theme = "wellington"
+theme = "diary"
 
 enableRobotsTXT = true
 enableEmoji = true
