@@ -41,7 +41,7 @@ Give an AI coding agent a sufficiently detailed specification and it can generat
 
 But professional software development has never been merely about typing.
 
-Coding involves learning the technology stack, understanding the framework and runtime, exploring implementation approaches, making trade-offs, writing working code, debugging it, testing it, refactoring it and making it maintainable.
+**Coding involves learning the technology stack, understanding the framework and runtime, exploring implementation approaches, making trade-offs, writing working code, debugging it, testing it, refactoring it and making it maintainable.**
 
 It means understanding *why* the code works, *why* it doesn't, and what will happen when the requirements change.
 
